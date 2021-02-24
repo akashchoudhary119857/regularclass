@@ -46,7 +46,7 @@ else
         echo "wrong username and password";
     }
 }*/
-$day_num=80;
+$day_num=4;
 if($day_num==1){
     echo "Monday";
 }
